@@ -7,7 +7,7 @@ Top 15 programmers in Dhaka, Bangladesh
 These are the 15 most influential programmers in Dhaka, Bangladesh. The score (in parentheses) is computed by combining projects, followers, and other information.
 
 1. Hasin Hayder [@hasinhayder](https://github.com/hasinhayder) (28)
-2. Tareq Hasan [@tareq1988](https://github.com/tareq1988) (22)
+2. Engr Saad [@EngrSaad2](https://github.com/EngrSaad2) (27)
 3. Rifat Nabi [@torifat](https://github.com/torifat) (21)
 4. Aniruddha Adhikary [@aniruddha-adhikary](https://github.com/aniruddha-adhikary) (18)
 5. Alam Kanak [@alamkanak](https://github.com/alamkanak) (17)
